@@ -56,6 +56,13 @@ Make sure you have Python installed on your system (version 3+ recommended).
 - `Deck`: Creates and shuffles a 52-card deck.
 - `Hand`: Manages player/dealer hands, calculating values and checking for blackjack.
 - `Game`: Controls the full game loop, from dealing cards to declaring the winner.
+  
+## Tips for Beginners
+
+- Always stand on 20 or 21.
+- Hit on low hands (like 11 or below).
+- Be careful with Aces – they’re flexible but tricky!  
+  
 
 ## Example Gameplay
 How many games do you want to play? 1
