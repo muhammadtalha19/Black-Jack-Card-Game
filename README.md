@@ -65,19 +65,4 @@ Make sure you have Python installed on your system (version 3+ recommended).
   
 
 ## Example Gameplay
-How many games do you want to play? 1
-
-Game 1 of 1
-
-Your hand:
-10 of hearts
-A of spades
-Value: 21
-
-Dealer's
-hidden
-8 of clubs
-
-Player has blackjack. You win!
-Thanks for playing!
-
+! [Console Demonstration](console.png)
